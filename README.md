@@ -2,7 +2,6 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Platform](https://img.shields.io/badge/platform-iOS%20|%20Android-lightgrey?logo=react)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A nostalgic Snake game built with **React Native + TypeScript**, featuring a responsive, notch-safe grid system and smooth gameplay. Perfect for learning grid logic, animation timing, and mobile-safe layouts.
 
@@ -10,7 +9,13 @@ A nostalgic Snake game built with **React Native + TypeScript**, featuring a res
 
 ## 📸 Preview
 
-> _Coming soon_
+> <img src="https://github.com/meKushdeepSingh/SnakeGame/blob/main/src/assets/images/app-preview-one.jpeg?raw=true" alt="A preview of the application" width="150" height="320">
+
+---
+
+## Build Link
+
+> [Download Android APK File](https://github.com/meKushdeepSingh/SnakeGame/raw/refs/heads/main/android/app/test-release-app.zip)
 
 ---
 
