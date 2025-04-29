@@ -1,0 +1,15 @@
+export const colors = {
+  background: '#F5F5F5',
+  backgroundLight: '#FFFFFF',
+  backgroundDark: '#121212',
+  surface: '#FFFFFF',
+  text: '#000000',
+  textLight: '#FFFFFF',
+  snake: '#0f0',
+  food: '#FF0000',
+  black: '#000000',
+  white: '#FFFFFF',
+  gray: '#808080',
+  controls: '#222',
+  border: '#B00020',
+};
