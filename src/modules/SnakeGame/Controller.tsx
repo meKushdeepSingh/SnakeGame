@@ -41,7 +41,7 @@ export {Controller};
 const styles = StyleSheet.create({
   controls: {
     flex: 1,
-    justifyContent: 'flex-end',
+    justifyContent: 'center',
     alignItems: 'center',
   },
   horizontalControls: {
@@ -62,5 +62,6 @@ const styles = StyleSheet.create({
   controlText: {
     fontSize: 32,
     color: colors.white,
+    textAlign: 'center',
   },
 });
